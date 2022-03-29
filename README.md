@@ -19,5 +19,7 @@
  	<a href="https://www.twitch.tv/augustocsr7" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:augusto.c.1707@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-césar-81a088205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
  ![Snake animation](https://github.com/augustoCSR7/augustoCSR7/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
